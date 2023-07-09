@@ -7,7 +7,7 @@ README.md
 ## task 1
 Реализуйте 3 метода, чтобы в каждом из них получить разные исключения
 
-[**ThreeExceptions**]()
+[**ThreeExceptions**](https://github.com/VeraNik1/ExceptionsHW1-main/blob/master/src/ThreeExceptions.java)
 
 **ThreeExceptions** содержит методы, которые генерируют различные типы исключений, 
 такие как **NullPointerException**, **IndexOutOfBoundsException** и **ArithmeticException**. 
