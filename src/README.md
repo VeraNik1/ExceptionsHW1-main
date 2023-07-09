@@ -122,7 +122,7 @@ Process finished with exit code 0
 
 **Важно:** При выполнении метода единственное исключение, которое пользователь может увидеть - RuntimeException, т.е. ваше.
 
-Пример кода [**ArraysDivision.java**]() содержит метод **divideArrays**, 
+Пример кода [**ArraysDivision.java**](https://github.com/VeraNik1/ExceptionsHW1-main/blob/master/src/ArraysDivision.java) содержит метод **divideArrays**, 
 который принимает в качестве аргументов два целочисленных массива 
 и возвращает новый массив, каждый элемент которого равен частному
 элементов двух входящих массивов в той же ячейке. 
