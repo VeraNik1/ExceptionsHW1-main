@@ -65,7 +65,7 @@ public static int sum2d(String[][] arr) {
 массивов не равны, необходимо как-то оповестить пользователя.
 
 
-Класс [**ArraysSubtraction.java**]() содержит метод **subtractArrays**, 
+Класс [**ArraysSubtraction.java**](https://github.com/VeraNik1/ExceptionsHW1-main/blob/master/src/ArraysSubtraction.java) содержит метод **subtractArrays**, 
 который принимает в качестве аргументов два целочисленных 
 массива и возвращает новый массив, 
 каждый элемент которого равен разности элементов 
